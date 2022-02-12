@@ -65,11 +65,11 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
   </a>&nbsp;
 
   <a>
-    <img src="/logo/react.png" alt="React" width="50" height="40"/>
+    <img src="/logo/react.png" alt="React" width="60" height="40"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/vue.png" alt="Vue" width="50" height="40"/>
+    <img src="/logo/vue.png" alt="Vue" width="60" height="40"/>
   </a>&nbsp;
 
 - **Databases**
