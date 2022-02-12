@@ -30,93 +30,93 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
   <img src="/logo/c.png" alt="C" width="40" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/c++.png" alt="C++" width="40" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/java.png" alt="Java" width="40" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/javascript.png" alt="Javascript" width="40" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/python.svg" alt="Python" width="40" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/sql.png" alt="SQL" width="60" height="40"/>
   </a>&nbsp;
 
 - **Frameworks**
 
-  <a>
-  <img src="/logo/node.png" alt="Node" width="50" height="40"/>
+  <a href="#">
+    <img src="/logo/node.png" alt="Node" width="50" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/express.png" alt="Express" width="60" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/graphql.png" alt="Graphql" width="60" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/react.png" alt="React" width="60" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/vue.png" alt="Vue" width="60" height="40"/>
   </a>&nbsp;
 
 - **Databases**
 
-  <a>
+  <a href="#">
   <img src="/logo/mongo.png" alt="MongoDB" width="80" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/mysql.png" alt="MySQL" width="50" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/postgre.jpg" alt="PostGreSQL" width="50" height="40"/>
   </a>&nbsp;
 
 - **Additional**
 
-  <a>
+  <a href="#">
   <img src="/logo/html.svg" alt="HTML" width="40" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/css.png" alt="CSS" width="40" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/numpy.png" alt="Numpy" width="40" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/pd.png" alt="Pandas" width="60" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/matplot.jpg" alt="Matplotlib" width="60" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/sklearn.png" alt="Scikit-Learn" width="50" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/tf.png" alt="Tensorflow" width="40" height="40"/>
   </a>&nbsp;
 
-  <a>
+  <a href="#">
     <img src="/logo/keras.png" alt="Keras" width="70" height="40"/>
   </a>&nbsp;
 
