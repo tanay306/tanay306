@@ -1,6 +1,6 @@
 ### Hi there I'm Tanay Gandhi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay306" alt="Tanay Gandhi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay306" alt="Tanay Gandhi" /> </p> -->
 <p>
 I am NodeJS Developer and a Data Enthusiast. Open to make new connections and if you wanna work on some project and get to know me more, then check me out on Linkedin.
 Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p>
