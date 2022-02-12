@@ -25,6 +25,7 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
 ### Skills:
 
 - **Languages**
+
   <a>
   <img src="/logo/c.png" alt="C" width="40" height="40"/>
   </a>&nbsp;
@@ -46,11 +47,81 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
   </a>&nbsp;
 
   <a>
-    <img src="/logo/sql.png" alt="SQL" width="40" height="40"/>
+    <img src="/logo/sql.png" alt="SQL" width="50" height="40"/>
+  </a>&nbsp;
+
+- **Frameworks**
+
+  <a>
+  <img src="/logo/node.png" alt="Node" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/express.png" alt="Express" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/graphql.png" alt="Graphql" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/react.png" alt="React" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/vue.svg" alt="Vue" width="40" height="40"/>
+  </a>&nbsp;
+
+- **Databases**
+
+  <a>
+  <img src="/logo/mongo.png" alt="MongoDB" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/mysql.png" alt="MySQL" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/postgre.jpg" alt="PostGreSQL" width="40" height="40"/>
+  </a>&nbsp;
+
+- **Additional**
+
+  <a>
+  <img src="/logo/html.svg" alt="HTML" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/css.png" alt="CSS" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/numpy.png" alt="Numpy" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/pd.png" alt="Pandas" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/matplot.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/sklearn.png" alt="Scikit-Learn" width="50" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/tf.jpg" alt="Tensorflow" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="/logo/keras.png" alt="Keras" width="50" height="40"/>
   </a>&nbsp;
 
 <summary>:zap: GitHub Stats</summary>
 <img alt="Tanay Gandhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tanay306&show_icons=true&hide_border=true" />
 
-<summary>:zap: Most Used Languages</summary>
+<summary>:zap: Most Used Languages</summary><br>
 <img alt="Tanay Gandhi's Mostly used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay306&layout=compact" />
