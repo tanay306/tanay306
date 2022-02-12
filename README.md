@@ -47,43 +47,43 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
   </a>&nbsp;
 
   <a>
-    <img src="/logo/sql.png" alt="SQL" width="50" height="40"/>
+    <img src="/logo/sql.png" alt="SQL" width="60" height="40"/>
   </a>&nbsp;
 
 - **Frameworks**
 
   <a>
-  <img src="/logo/node.png" alt="Node" width="40" height="40"/>
+  <img src="/logo/node.png" alt="Node" width="50" height="50"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/express.png" alt="Express" width="40" height="40"/>
+    <img src="/logo/express.png" alt="Express" width="60" height="50"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/graphql.png" alt="Graphql" width="40" height="40"/>
+    <img src="/logo/graphql.png" alt="Graphql" width="60" height="50"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/react.png" alt="React" width="40" height="40"/>
+    <img src="/logo/react.png" alt="React" width="50" height="50"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/vue.svg" alt="Vue" width="40" height="40"/>
+    <img src="/logo/vue.png" alt="Vue" width="50" height="50"/>
   </a>&nbsp;
 
 - **Databases**
 
   <a>
-  <img src="/logo/mongo.png" alt="MongoDB" width="40" height="40"/>
+  <img src="/logo/mongo.png" alt="MongoDB" width="70" height="40"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/mysql.png" alt="MySQL" width="40" height="40"/>
+    <img src="/logo/mysql.png" alt="MySQL" width="50" height="40"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/postgre.jpg" alt="PostGreSQL" width="40" height="40"/>
+    <img src="/logo/postgre.jpg" alt="PostGreSQL" width="50" height="40"/>
   </a>&nbsp;
 
 - **Additional**
@@ -101,11 +101,11 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
   </a>&nbsp;
 
   <a>
-    <img src="/logo/pd.png" alt="Pandas" width="40" height="40"/>
+    <img src="/logo/pd.png" alt="Pandas" width="60" height="40"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/matplot.svg" alt="Matplotlib" width="40" height="40"/>
+    <img src="/logo/matplot.jpg" alt="Matplotlib" width="60" height="40"/>
   </a>&nbsp;
 
   <a>
@@ -113,11 +113,11 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
   </a>&nbsp;
 
   <a>
-    <img src="/logo/tf.jpg" alt="Tensorflow" width="40" height="40"/>
+    <img src="/logo/tf.jpg" alt="Tensorflow" width="70" height="40"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/keras.png" alt="Keras" width="50" height="40"/>
+    <img src="/logo/keras.png" alt="Keras" width="60" height="40"/>
   </a>&nbsp;
 
 <summary>:zap: GitHub Stats</summary>
