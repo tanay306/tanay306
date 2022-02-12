@@ -26,7 +26,7 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
 
 - **Languages**
 
-  <a style="pointer-events: none; cursor: default;">
+  <a href="javascript:void(0)" style="cursor: default;">
   <img src="/logo/c.png" alt="C" width="40" height="40"/>
   </a>&nbsp;
 
