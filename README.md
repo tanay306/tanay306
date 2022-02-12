@@ -113,7 +113,7 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
   </a>&nbsp;
 
   <a>
-    <img src="/logo/tf.png" alt="Tensorflow" width="70" height="40"/>
+    <img src="/logo/tf.png" alt="Tensorflow" width="40" height="40"/>
   </a>&nbsp;
 
   <a>
