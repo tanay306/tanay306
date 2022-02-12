@@ -53,29 +53,29 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
 - **Frameworks**
 
   <a>
-  <img src="/logo/node.png" alt="Node" width="50" height="50"/>
+  <img src="/logo/node.png" alt="Node" width="50" height="40"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/express.png" alt="Express" width="60" height="50"/>
+    <img src="/logo/express.png" alt="Express" width="60" height="40"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/graphql.png" alt="Graphql" width="60" height="50"/>
+    <img src="/logo/graphql.png" alt="Graphql" width="60" height="40"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/react.png" alt="React" width="50" height="50"/>
+    <img src="/logo/react.png" alt="React" width="50" height="40"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/vue.png" alt="Vue" width="50" height="50"/>
+    <img src="/logo/vue.png" alt="Vue" width="50" height="40"/>
   </a>&nbsp;
 
 - **Databases**
 
   <a>
-  <img src="/logo/mongo.png" alt="MongoDB" width="70" height="40"/>
+  <img src="/logo/mongo.png" alt="MongoDB" width="80" height="40"/>
   </a>&nbsp;
 
   <a>
@@ -113,11 +113,11 @@ Checkout my <a href="https://tanay306.github.io" target="_blank">Website.</a></p
   </a>&nbsp;
 
   <a>
-    <img src="/logo/tf.jpg" alt="Tensorflow" width="70" height="40"/>
+    <img src="/logo/tf.png" alt="Tensorflow" width="70" height="40"/>
   </a>&nbsp;
 
   <a>
-    <img src="/logo/keras.png" alt="Keras" width="60" height="40"/>
+    <img src="/logo/keras.png" alt="Keras" width="70" height="40"/>
   </a>&nbsp;
 
 <summary>:zap: GitHub Stats</summary>
